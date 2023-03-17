@@ -1,4 +1,4 @@
-.place__website_link {
+.place__website-link {
     max-width: 456px;
     height: 22px;
     color: #FFFFFF;
@@ -11,6 +11,6 @@
 }
 
 
-.place__website_link:hover {
+.place__website-link:hover {
     opacity: 0.8;
 }

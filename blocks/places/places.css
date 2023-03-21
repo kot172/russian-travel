@@ -16,6 +16,7 @@
     .places {
         max-width: 720px;
         gap: 73px;
+        margin: 88px auto 0;
     }
 }
 

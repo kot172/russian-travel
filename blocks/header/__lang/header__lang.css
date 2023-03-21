@@ -1,4 +1,6 @@
 .header__lang {
     display: flex;
-    align-items: flex-end;
+    align-items: self-end;
+    list-style-type: none;
+    margin: 0;
 }

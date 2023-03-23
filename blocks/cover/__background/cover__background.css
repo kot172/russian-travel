@@ -1,7 +1,7 @@
 .cover__background {
-   position: relative;
-   max-width: 1184px; 
-   min-height: 740px; 
+    position: relative;
+    max-width: 1184px;
+    min-height: 740px;
     background-image: url(../../../images/__background.png);
     background-size: 100% 100%;
     text-decoration: none;
@@ -17,7 +17,7 @@
     content: "";
     position: absolute;
     transition: opacity 3s ease-in-out;
-    top:0;
+    top: 0;
     left: 0;
     right: 0;
     bottom: 0;
@@ -53,5 +53,4 @@
         max-width: 320px;
         min-height: 200px;
     }
-
 }

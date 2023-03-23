@@ -1,4 +1,4 @@
-[Ссылка на проект](https://github.com/kot172/russian-travel)
+[Ссылка на проект](https://kot172.github.io/russian-travel/)
 
 -------
 
